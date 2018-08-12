@@ -1,1 +1,1 @@
-# StringCompare
+# StringCompare in java
